@@ -6,11 +6,10 @@ This project predicts electricity prices using various regression models and rea
 
 ```
 ElectricityPricePrediction/
-├── ElectricityPricePrediction_CLEAN.ipynb   # Cleaned and structured notebook
+├── ElectricityPricePrediction_CLEAN.ipynb   
 ├── data/
-│   └── data.csv                             # Source dataset
-├── README.md                                # Project overview
-└── requirements.txt                         # Required packages
+│   └── data.csv                                                        
+└── requirements.txt                        
 ```
 
 ## 🚀 How to Run
